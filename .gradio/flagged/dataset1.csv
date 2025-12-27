@@ -1,0 +1,2 @@
+上传花卉图片,识别结果,timestamp
+.gradio\flagged\上传花卉图片\5d7798eae9848162fa33\158869618_f1a6704236_n.jpg,"{""label"": ""sunflowers"", ""confidences"": [{""label"": ""sunflowers"", ""confidence"": 0.5617459416389465}, {""label"": ""daisy"", ""confidence"": 0.42989978194236755}, {""label"": ""dandelion"", ""confidence"": 0.00578171806409955}]}",2025-12-27 16:57:22.161918
